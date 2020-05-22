@@ -2,7 +2,7 @@
 
 I'm committing to code at least 1 hour day for the next 💯 days. I'll be logging my progress daily in the [Log](log.md) and on [Twitter](https://twitter.com/jojotweeets). Weekly updates EOW on my personal blog page.
 
-I would like to improve my skills in the React Native framework and algorithms.
+I would like to improve my skills in the React Native framework and algorithms. Here's my [plan](https://github.com/joanne-li/100-days-of-code/blob/master/plan.md).
 
 **Start date**: 22nd May 2020
 
