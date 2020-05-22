@@ -5,6 +5,7 @@ I'm committing to code at least 1 hour day for the next 💯 days. I'll be loggi
 I would like to improve my skills in the React Native framework and algorithms.
 
 Start date: 22nd May 2020
+
 End date: 30th April 2020
 
 ## Contents
