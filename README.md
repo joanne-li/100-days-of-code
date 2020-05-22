@@ -1,12 +1,12 @@
 # I've joined the #100DaysOfCode Challenge
 
-I'm committing to code at least 1 hour day for the next 💯 days. I'll be logging my progress daily in the [Log](log.md) and on [twitter](https://twitter.com/jojotweeets). Weekly updates EOW on my personal blog page.
+I'm committing to code at least 1 hour day for the next 💯 days. I'll be logging my progress daily in the [Log](log.md) and on [Twitter](https://twitter.com/jojotweeets). Weekly updates EOW on my personal blog page.
 
 I would like to improve my skills in the React Native framework and algorithms.
 
-Start date: 22nd May 2020
+**Start date**: 22nd May 2020
 
-End date: 30th April 2020
+**End date**: 30th April 2020
 
 ## Contents
 
