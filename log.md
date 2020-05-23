@@ -14,3 +14,10 @@ Resources I used today.
 - [Core components](https://reactnative.dev/docs/intro-react-native-components#native-components)
 - [Button](https://reactnative.dev/docs/button)
 
+### Day 1: May 23, 2020 (Saturday)
+
+**Today's Progress**: Fixed header issue on iPhone X and XS. Corrected spacing between buttons on top.
+
+**Thoughts:** I did not get much done today as I had a much needed family day today. It's been a long time since we have been able to go out due to quarantine. I will focus on creating a list of text input tomorrow and creating a space for image upload.
+
+
