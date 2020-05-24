@@ -6,7 +6,7 @@ I would like to improve my skills in the React Native framework and algorithms. 
 
 **Start date**: 22nd May 2020
 
-**End date**: 30th April 2020
+**End date**: 30th August 2020 --> 31 August 2020 (+1 make up days)
 
 ## Contents
 
