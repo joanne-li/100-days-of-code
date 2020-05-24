@@ -20,4 +20,16 @@ Resources I used today.
 
 **Thoughts:** I did not get much done today as I had a much needed family day today. It's been a long time since we have been able to go out due to quarantine. I will focus on creating a list of text input tomorrow and creating a space for image upload.
 
+### Day 2: May 24, 2020 (Sunday)
 
+**Today's Progress**: Built React App with a React Native CLI instead of Expo due to limitations in viewing Android and iOS emulators. Evaluating the requirements of the app influenced this decision. I read the docs on Platform compatibility and screen navigation.
+
+**Thoughts**: Much like yesterday, I did not get too much time to work on actual coding today but I have a whole day ahead tomorrow. Will work on building individual components for the screen and navigation. If I encounter any struggles with js, I will make a note of it and write it in my blog.
+
+**Link to work:** 
+
+Resources I used today.
+
+- [Nav](https://reactnative.dev/docs/navigation)
+- [Example of Platform selection](https://github.com/facebook/react-native/blob/master/Libraries/NewAppScreen/components/DebugInstructions.js)
+- [Platform guide](https://reactnative.dev/docs/platform-specific-code)
