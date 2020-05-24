@@ -26,6 +26,8 @@ Resources I used today.
 
 **Thoughts**: Much like yesterday, I did not get too much time to work on actual coding today but I have a whole day ahead tomorrow. Will work on building individual components for the screen and navigation. If I encounter any struggles with js, I will make a note of it and write it in my blog.
 
+Adding one make up day for lack of coding **+1**
+
 **Link to work:** 
 
 Resources I used today.
