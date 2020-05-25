@@ -35,3 +35,18 @@ Resources I used today.
 - [Nav](https://reactnative.dev/docs/navigation)
 - [Example of Platform selection](https://github.com/facebook/react-native/blob/master/Libraries/NewAppScreen/components/DebugInstructions.js)
 - [Platform guide](https://reactnative.dev/docs/platform-specific-code)
+
+### Day 3: May 25, 2020 (Monday)
+
+**Today's Progress**: Installed React Navigation into project. Took about 2-3hrs to get it working on iOS due to dependency issues. Still need to fix it for Android. Worked through 70ish challenges on basic Javascript to get up to speed on it.
+
+**Thought**: It was really encouraging to get through the installations so I can actually start the UI. I do not want to delay this process any longer so will aim to get the first screen designed tomorrow.
+
+**Link to work**
+
+Resources I used today.
+
+- [Nav](https://reactnative.dev/docs/navigation)
+- [Javascript tutorial](https://www.freecodecamp.org/learn)
+- [Context in React](https://reactjs.org/docs/context.html)
+
