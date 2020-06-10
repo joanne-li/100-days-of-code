@@ -64,4 +64,44 @@ Resources I used today.
 
 **Today's Progress** (Backdated, written 29/05): Finished ES6 tutorials!
  
+### Day 7: May 29, 2020 (Friday)
+
+**Today's Progress** [Tweeted progress](https://twitter.com/jojotweeets/status/1266358998762020868?s=20)
+
+### Day 8: May 30, 2020 (Saturday)
+
+**Today's Progress** [Tweeted progress](https://twitter.com/jojotweeets/status/1266763276483887104?s=20)
+
+### Day 9: May 31, 2020 (Sunday)
+
+**Today's Progress** [Tweeted progress](https://twitter.com/jojotweeets/status/1267108995170328576?s=20)
+
+### Day 10: June 1, 2020 (Monday)
+
+**Today's Progress** [Tweeted progress](https://twitter.com/jojotweeets/status/1267460682556911616?s=20)
+
+---
+
+### Reflection 10/06/2020
+
+There was a gap in progress. Balancing programming for a uni project I work on and the start of a new uni semester. I have developed a new plan and focus for the next few weeks. Hopefully this will help me be consistent with logging my progress.
+
+**👩‍🎤🥁Lyric Analysis🎺🎹**
+
+- End of week ...refactor/debug my code. Ensure navigation between pages works.
+- End of month ...enable side by side comparison of from selected group of artists.
+- Extension:
+    - Do a live web scrape of lyrics on demand for artists not included in database,
+or allow user to input their own text.
+    - Use API to allow user to listen to a sample of the artist's music with relevant song.
+
+**👩‍💻Algorithms🎓**
+
+- To supplement my Algorithms course for uni. I will commit to doing LeetCode exercises
+everyday or second day.
+- Extension:
+     - Write a beginner's tutorial guide on a Jekyll blog
+     - Break down famous algorithms and write up mini-biographies on these inventors!
+     I love some history, it's good to appreciate those who've come before :)
+
 
