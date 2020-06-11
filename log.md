@@ -104,4 +104,12 @@ everyday or second day.
      - Break down famous algorithms and write up mini-biographies on these inventors!
      I love some history, it's good to appreciate those who've come before :)
 
+---
 
+### Day 11: June 10, 2020 (Wednesday)
+
+**Today's Progress** [Tweet progress](https://twitter.com/jojotweeets/status/1270700581095530497?s=20)
+
+### Day 12: June 11, 2020 (Thursday)
+
+**Today's Progress** [Tweet progress](https://twitter.com/jojotweeets/status/1271085657633329152?s=20)
