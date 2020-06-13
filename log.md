@@ -108,8 +108,18 @@ everyday or second day.
 
 ### Day 11: June 10, 2020 (Wednesday)
 
-**Today's Progress** [Tweet progress](https://twitter.com/jojotweeets/status/1270700581095530497?s=20)
+**Today's Progress** [Tweeted progress](https://twitter.com/jojotweeets/status/1270700581095530497?s=20)
 
 ### Day 12: June 11, 2020 (Thursday)
 
-**Today's Progress** [Tweet progress](https://twitter.com/jojotweeets/status/1271085657633329152?s=20)
+**Today's Progress** [Tweeted progress](https://twitter.com/jojotweeets/status/1271085657633329152?s=20)
+
+### Day 13: June 12, 2020 (Friday)
+
+**Today's Progress** [Tweeted progress](https://twitter.com/jojotweeets/status/1271321577267671052?s=20)
+
+### Day 14: June 13, 2020 (Saturday)
+
+**Today's Progress**: Mainly focused on cleaning up code for my uni project and modifying my code to fix up some graph visualisation issues. I didn't have much time as I have an assignment due soon. Need to change viewport size of the graph to avoid node overlaps.
+
+**Thoughts**: I need to work more efficiently and log my attempts at certain approaches. Avoid repeating approaches to fix a problem. 
