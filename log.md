@@ -123,3 +123,15 @@ everyday or second day.
 **Today's Progress**: Mainly focused on cleaning up code for my uni project and modifying my code to fix up some graph visualisation issues. I didn't have much time as I have an assignment due soon. Need to change viewport size of the graph to avoid node overlaps.
 
 **Thoughts**: I need to work more efficiently and log my attempts at certain approaches. Avoid repeating approaches to fix a problem. 
+
+### Day 15: June 14, 2020 (Sunday)
+
+**Today's Progress**: [Tweeted progress](https://twitter.com/jojotweeets/status/1272126467573288960?s=20)
+
+### Day 15: June 17, 2020 (Wednesday)
+
+**Today's Progress**: Took two days break as a I had an important university assignment to attend to. I worked on refactoring my graph visualisation code and made some documentation.
+
+**Thoughts**: I would like learn shell scripting to automate some processes. I also need to build a habit of using virtual environments. And also need to do more object oriented and modular programming to avoid having to refactor many times.
+
+
